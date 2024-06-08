@@ -96,3 +96,4 @@ function getRandomComputerResult() {
     showResults("Scissors");
   });
   
+  
